@@ -1,0 +1,1 @@
+-commit guarda lo preparado, no un archivo suelto.
